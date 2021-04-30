@@ -1,0 +1,74 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Carlos Caçador de Bruxa",
+      "rg": "123123"
+    },
+    {
+      "id": 2,
+      "nome": "Carla Caçadora de Bruxa",
+      "rg": "6258893"
+    },
+    {
+      "id": 3,
+      "nome": "Bruno Carpinteiro",
+      "rg": "6258893"
+    },
+    {
+      "id": 4,
+      "nome": "Ariel Programador",
+      "rg": "6258893"
+    },
+    {
+      "id": 5,
+      "nome": "xubiscreudo Desenvolvedor Full-Stack",
+      "rg": "6258893"
+    },
+    {
+      "id": 6,
+      "nome": "zaria Betania Software Engineer",
+      "rg": "6258893"
+    },
+    {
+      "nome": "geovanna",
+      "rg": "123123",
+      "id": 7
+    },
+    {
+      "nome": "Rosana",
+      "rg": "123123",
+      "id": 11
+    },
+    {
+      "nome": "Andrey",
+      "rg": "123123",
+      "id": 12
+    },
+    {
+      "nome": "Amanda",
+      "rg": "123123",
+      "id": 13
+    },
+    {
+      "nome": "adrielly",
+      "rg": "123123",
+      "id": 14
+    },
+    {
+      "nome": "bella sophia",
+      "rg": "123123",
+      "id": 15
+    },
+    {
+      "nome": "bernardo",
+      "rg": "123123",
+      "id": 16
+    },
+    {
+      "nome": "Alexandre",
+      "rg": "123123",
+      "id": 17
+    }
+  ]
+}

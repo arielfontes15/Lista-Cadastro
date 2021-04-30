@@ -1,0 +1,17 @@
+{
+  "name": "projeto-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^4.4.1"
+  }
+}
